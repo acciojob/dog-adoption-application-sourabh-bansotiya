@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+form{
+	border: 2px solid black;
+	padding: 20px;
+}
+
+#name{
+	margin: 20px
+}
+
+#phone{
+	margin: 20px
+}
+
+#address{
+	margin: 20px
+}
+
+#checkbox{
+	margin: 20px
+}
+
+#multiSelect{
+	margin: 20px
+}
+
+button{
+	width: 150px;
+	height: 30px;
+	border-radius: 5px;
+	background-color: green;
+	color: white;
+}
+#name1{
+	margin-top: 1px;
+	margin-left: 20px
+}
